@@ -1,5 +1,15 @@
 # Proxmox Virtual Environment
 
+# Source LUCDUKE
+
+merci d'aller voir sa chaîne Youtube.
+
+## A propos
+
+Retrouvez plus de tutoriels sur ma chaîne Youtube The Duke Of Puteaux 
+
+https://www.youtube.com/channel/UCsJ-FHnCEvtV4m3-nTdR5QQ
+
 
 
 ## Introduction
@@ -76,9 +86,5 @@ https://www.proxmox.com/en/
 
 
 
-## A propos
 
-Retrouvez plus de tutoriels sur ma chaîne Youtube The Duke Of Puteaux 
-
-https://www.youtube.com/channel/UCsJ-FHnCEvtV4m3-nTdR5QQ
 
